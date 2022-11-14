@@ -1,0 +1,16 @@
+.bonjour{
+	color: orange;
+}
+.image{
+	border : 10px dashed green ; 
+	padding : 20px ; 
+	margin-top :40px ;
+	margin-left :20px ;
+}
+.beau{
+	font-style : italic 
+}
+.table{
+	color: green;
+	box-shadow: 10px 10px 10px 0px blue
+}
